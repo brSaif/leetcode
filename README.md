@@ -9,6 +9,14 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1851|[Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [C++](./algorithms/cpp/minimumIntervalToIncludeEachQuery/MinimumIntervalToIncludeEachQuery.cpp)|Hard|
+|1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [C++](./algorithms/cpp/minimumAdjacentSwapsToReachTheKthSmallestNumber/MinimumAdjacentSwapsToReachTheKthSmallestNumber.cpp)|Medium|
+|1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [C++](./algorithms/cpp/splittingAStringIntoDescendingConsecutiveValues/SplittingAStringIntoDescendingConsecutiveValues.cpp)|Medium|
+|1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [C++](./algorithms/cpp/minimumDistanceToTheTargetElement/MinimumDistanceToTheTargetElement.cpp)|Easy|
+|1847|[Closest Room](https://leetcode.com/problems/closest-room/) | [C++](./algorithms/cpp/closestRoom/ClosestRoom.cpp)|Hard|
+|1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [C++](./algorithms/cpp/maximumElementAfterDecreasingAndRearranging/MaximumElementAfterDecreasingAndRearranging.cpp)|Medium|
+|1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [C++](./algorithms/cpp/seatReservationManager/SeatReservationManager.cpp)|Medium|
+|1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [C++](./algorithms/cpp/replaceAllDigitsWithCharacters/ReplaceAllDigitsWithCharacters.cpp)|Easy|
 |1840|[Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [C++](./algorithms/cpp/maximumBuildingHeight/MaximumBuildingHeight.cpp)|Hard|
 |1839|[Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [C++](./algorithms/cpp/longestSubstringOfAllVowelsInOrder/LongestSubstringOfAllVowelsInOrder.cpp)|Medium|
 |1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [C++](./algorithms/cpp/frequencyOfTheMostFrequentElement/FrequencyOfTheMostFrequentElement.cpp)|Medium|
@@ -87,6 +95,8 @@ LeetCode
 |1734|[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [C++](./algorithms/cpp/decodeXORedPermutation/DecodeXoredPermutation.cpp)|Medium|
 |1733|[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [C++](./algorithms/cpp/minimumNumberOfPeopleToTeach/MinimumNumberOfPeopleToTeach.cpp)|Medium|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [C++](./algorithms/cpp/findTheHighestAltitude/FindTheHighestAltitude.cpp)|Easy|
+|1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [C++](./algorithms/cpp/largestSubmatrixWithRearrangements/LargestSubmatrixWithRearrangements.cpp)|Medium|
+|1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [C++](./algorithms/cpp/tupleWithSameProduct/TupleWithSameProduct.cpp)|Medium|
 |1725|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [C++](./algorithms/cpp/numberOfRectanglesThatCanFormTheLargestSquare/NumberOfRectanglesThatCanFormTheLargestSquare.cpp)|Easy|
 |1718|[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [C++](./algorithms/cpp/constructTheLexicographicallyLargestValidSequence/ConstructTheLexicographicallyLargestValidSequence.cpp)|Medium|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [C++](./algorithms/cpp/maximumScoreFromRemovingSubstrings/MaximumScoreFromRemovingSubstrings.cpp)|Medium|
